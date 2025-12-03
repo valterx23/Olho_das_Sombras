@@ -63,8 +63,8 @@ O conhecimento em segurança deve ser usado para **proteger sistemas**, não par
 Clone o repositório:
 
 ```bash
-git clone https://github.com/valterx23/olho-das-sombras.git
-cd olho-das-sombras
+git clone https://github.com/valterx23/Olho_das_Sombras.git
+cd Olho_das_Sombras
 ```
 
 Execute com sudo script principal:
