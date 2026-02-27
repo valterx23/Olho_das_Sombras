@@ -64,7 +64,7 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/valterx23/Olho_das_Sombras.git
-cd Olho_das_Sombras
+pip install -r requirements.txt
 ```
 
 Execute com sudo script principal:
